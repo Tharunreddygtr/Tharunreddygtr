@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tharun kumar reddy
 - 👀 I’m interested in coding...
-- 🌱 I’m currently working on python,django,html,css,javascript,angular .
+- 🌱 I’m working on python,django,html,css,javascript,angular, react js .
 
 
 <!---
